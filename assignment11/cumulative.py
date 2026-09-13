@@ -1,8 +1,10 @@
+# Task 2
+
 import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
 
-# Task 2
+
 conn = None
 df = None
 
