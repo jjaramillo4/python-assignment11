@@ -1,0 +1,16 @@
+Task 4: Reflections
+
+Static vs. interactive visualizations
+Depending on the audience and the information you are trying to convey, either static or
+interactive visualizations can be appropriate. For example, for reporting in an academic
+paper or a snapshot to leadership, you can share a static report. If you are exploring data,
+or showing complex data such as KPIs, you can use an interactive dashboard.
+
+Advantages of dashboards for real-time data exploration
+As mentioned before, dashboards can be interactive and allow users to explore complex data
+and filter it to display specific information. They are very useful for data analysis and
+for gathering insights from the data itself.
+
+How interactive tools like Plotly improve data communication professionally
+They allow users to see the data visually, and depending on the chart, they can convey the
+significance of the data, show relationships within it, and support data analysis.
